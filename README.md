@@ -1,6 +1,6 @@
 ### Olá Mundo!!! 👋
 
-Me chamao Admir Santos, e esse é meu perfil !!
+Me chamo Admir Santos, e esse é meu perfil !!
 
 
 **Admir-Designer-Programador/Admir-Designer-Programador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
